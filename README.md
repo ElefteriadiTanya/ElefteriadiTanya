@@ -29,7 +29,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/ElefteriadiTanya/foto/blob/main/%D0%90%D0%B2%D0%B0%D1%82%D0%B0%D1%80%20%D0%B4%D0%BB%D1%8F%20%D0%98%D0%BD%D1%81%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%20c%20%D0%BE%D0%B1%D0%B2%D0%BE%D0%B4%D0%BA%D0%BE%D0%B9.png" width="400" height="280" />
+<img align="right" alt="GIF" src="https://github.com/ElefteriadiTanya/foto/blob/main/%D0%90%D0%B2%D0%B0%D1%82%D0%B0%D1%80%20%D0%B4%D0%BB%D1%8F%20%D0%98%D0%BD%D1%81%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%20c%20%D0%BE%D0%B1%D0%B2%D0%BE%D0%B4%D0%BA%D0%BE%D0%B9.png" width="400" height="400" />
   
 **Languages and Tools:**  
 
