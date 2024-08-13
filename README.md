@@ -29,7 +29,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://https://https://photos.app.goo.gl/b3DiNR7Xsq8ADvss9" width="400" height="280" />
+<img align="right" alt="GIF" src="https://www.canva.com/design/DAF7n3H5HH8/4tKexKktpAxxSQGkZ5Tpzw/edit" width="400" height="280" />
   
 **Languages and Tools:**  
 
