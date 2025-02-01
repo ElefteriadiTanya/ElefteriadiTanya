@@ -5,8 +5,8 @@
 - 🤔 I’m looking for help with ...glad for any important information
 - 💬 Ask me about ...about what you want
 - 📫 How to reach me: ...tanyaelefteriadi@gmail.com
-- ⚡ Fun fact: ...sometimes i try to enlarge my face or other things like smartphone screen
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+- ⚡ Fun fact: ... 
+### Я рада видеть вас вы можете со мной связатся чтобы дружить! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://vk.com/elefterik">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
@@ -25,7 +25,7 @@
 
 <br />
 
-Привет, меня зовут Татьяна Елефтериади, я студент. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
+Меня зовут Татьяна Елефтериади, я студентка. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
 
 <br />
 
